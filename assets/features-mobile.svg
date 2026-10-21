@@ -1,0 +1,155 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2092" viewBox="0 0 480 2092" role="img" aria-labelledby="title"><title id="title">Discover, launch, floating sessions, personal library, two identities, Profile, protected access, and signed automatic updates.</title><defs>
+  <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101f33"/><stop offset=".6" stop-color="#08121e"/><stop offset="1" stop-color="#060c15"/></linearGradient>
+  <linearGradient id="metal" x1="40" y1="0" x2="370" y2="305" gradientUnits="userSpaceOnUse"><stop stop-color="#d0f5ff"/><stop offset=".2" stop-color="#8cd8ff"/><stop offset=".46" stop-color="#318ef3"/><stop offset="1" stop-color="#063e85"/></linearGradient>
+  <linearGradient id="purple" x1="40" y1="0" x2="370" y2="305" gradientUnits="userSpaceOnUse"><stop stop-color="#eee4ff"/><stop offset=".3" stop-color="#c99bff"/><stop offset=".7" stop-color="#9260f2"/><stop offset="1" stop-color="#4823a0"/></linearGradient>
+  <linearGradient id="edge"><stop stop-color="#89caff" stop-opacity=".7"/><stop offset=".5" stop-color="#45628c" stop-opacity=".12"/><stop offset="1" stop-color="#87bcf8" stop-opacity=".4"/></linearGradient>
+  <linearGradient id="shine"><stop stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#e6f8ff" stop-opacity=".38"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+  <radialGradient id="halo"><stop stop-color="#248bff" stop-opacity=".3"/><stop offset=".6" stop-color="#248bff" stop-opacity=".08"/><stop offset="1" stop-color="#248bff" stop-opacity="0"/></radialGradient>
+  <radialGradient id="violet-halo"><stop stop-color="#9860ff" stop-opacity=".22"/><stop offset="1" stop-color="#9860ff" stop-opacity="0"/></radialGradient>
+  <clipPath id="crown-clip"><path d="M38.5 290.7 0.5 120.1C-3.6 102 9.2 93.8 24.5 101.2L116.7 145.7 193.2 10.2C200.1-2.1 216.4-2.1 223.3 10.2L299.6 145.7 393.3 100.6C409.5 92.8 421.1 102.6 417 120.8L378.5 290.7C376.7 299.2 370.8 305 361.3 305H55.7C46.3 305 40.5 299.7 38.5 290.7Z"/></clipPath>
+  <filter id="soft" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="5"/></filter>
+</defs><g font-family="Segoe UI,Arial,sans-serif"><svg x="0" y="0" width="480" height="244" viewBox="0 0 480 244"><title id="title">Find your next session. Search by name. Explore available games. Discord catalog, private mirror, Local data.</title><defs>
+  <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101f33"/><stop offset=".6" stop-color="#08121e"/><stop offset="1" stop-color="#060c15"/></linearGradient>
+  <linearGradient id="metal" x1="40" y1="0" x2="370" y2="305" gradientUnits="userSpaceOnUse"><stop stop-color="#d0f5ff"/><stop offset=".2" stop-color="#8cd8ff"/><stop offset=".46" stop-color="#318ef3"/><stop offset="1" stop-color="#063e85"/></linearGradient>
+  <linearGradient id="purple" x1="40" y1="0" x2="370" y2="305" gradientUnits="userSpaceOnUse"><stop stop-color="#eee4ff"/><stop offset=".3" stop-color="#c99bff"/><stop offset=".7" stop-color="#9260f2"/><stop offset="1" stop-color="#4823a0"/></linearGradient>
+  <linearGradient id="edge"><stop stop-color="#89caff" stop-opacity=".7"/><stop offset=".5" stop-color="#45628c" stop-opacity=".12"/><stop offset="1" stop-color="#87bcf8" stop-opacity=".4"/></linearGradient>
+  <linearGradient id="shine"><stop stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#e6f8ff" stop-opacity=".38"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+  <radialGradient id="halo"><stop stop-color="#248bff" stop-opacity=".3"/><stop offset=".6" stop-color="#248bff" stop-opacity=".08"/><stop offset="1" stop-color="#248bff" stop-opacity="0"/></radialGradient>
+  <radialGradient id="violet-halo"><stop stop-color="#9860ff" stop-opacity=".22"/><stop offset="1" stop-color="#9860ff" stop-opacity="0"/></radialGradient>
+  <clipPath id="crown-clip"><path d="M38.5 290.7 0.5 120.1C-3.6 102 9.2 93.8 24.5 101.2L116.7 145.7 193.2 10.2C200.1-2.1 216.4-2.1 223.3 10.2L299.6 145.7 393.3 100.6C409.5 92.8 421.1 102.6 417 120.8L378.5 290.7C376.7 299.2 370.8 305 361.3 305H55.7C46.3 305 40.5 299.7 38.5 290.7Z"/></clipPath>
+  <filter id="soft" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="5"/></filter>
+</defs><g font-family="Segoe UI,Arial,sans-serif"><rect x=".75" y=".75" width="478.5" height="242.5" rx="24" fill="url(#surface)" stroke="url(#edge)" stroke-width="1.5"/><circle cx="424" cy="48" r="145" fill="url(#halo)" opacity=".75"/>
+    <path d="M21 50V22h28m382 0h28v28" fill="none" stroke="#93c9ff" stroke-opacity=".2"/>
+    <text x="29" y="40" font-size="9" fill="#7399bd" letter-spacing="1.6">01 / DISCOVER</text>
+    <g transform="translate(383 27)" stroke="#93c9ff" fill="none" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><circle cx="21" cy="20" r="12"/><path d="m30 29 10 10M21 14v12m-6-6h12"/></g>
+    <text x="29" y="106" font-size="24" fill="#e5f1ff" font-weight="600" letter-spacing="-.5">Find your next session.</text>
+    <text x="30" y="140" font-size="14" fill="#a1b5cb" >Search by name. Explore available games.</text><text x="30" y="163" font-size="14" fill="#a1b5cb" >Discord catalog, private mirror, Local data.</text>
+    <path d="M30 196h420" stroke="#40617e" stroke-opacity=".24"/><circle cx="33" cy="220" r="2" fill="#93c9ff"/>
+    <text x="44" y="223" font-size="7.5" fill="#739bbf" letter-spacing="1.4">SEARCH WITH PURPOSE</text>
+    <path d="m429 215 7 5-7 5m-8-5h15" stroke="#93c9ff" stroke-opacity=".6" fill="none"/></g></svg><svg x="0" y="264" width="480" height="244" viewBox="0 0 480 244"><title id="title">Your play. Your choice. Normal, Local, or RPC Call where supported. Choose the method before every launch.</title><defs>
+  <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101f33"/><stop offset=".6" stop-color="#08121e"/><stop offset="1" stop-color="#060c15"/></linearGradient>
+  <linearGradient id="metal" x1="40" y1="0" x2="370" y2="305" gradientUnits="userSpaceOnUse"><stop stop-color="#d0f5ff"/><stop offset=".2" stop-color="#8cd8ff"/><stop offset=".46" stop-color="#318ef3"/><stop offset="1" stop-color="#063e85"/></linearGradient>
+  <linearGradient id="purple" x1="40" y1="0" x2="370" y2="305" gradientUnits="userSpaceOnUse"><stop stop-color="#eee4ff"/><stop offset=".3" stop-color="#c99bff"/><stop offset=".7" stop-color="#9260f2"/><stop offset="1" stop-color="#4823a0"/></linearGradient>
+  <linearGradient id="edge"><stop stop-color="#89caff" stop-opacity=".7"/><stop offset=".5" stop-color="#45628c" stop-opacity=".12"/><stop offset="1" stop-color="#87bcf8" stop-opacity=".4"/></linearGradient>
+  <linearGradient id="shine"><stop stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#e6f8ff" stop-opacity=".38"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+  <radialGradient id="halo"><stop stop-color="#248bff" stop-opacity=".3"/><stop offset=".6" stop-color="#248bff" stop-opacity=".08"/><stop offset="1" stop-color="#248bff" stop-opacity="0"/></radialGradient>
+  <radialGradient id="violet-halo"><stop stop-color="#9860ff" stop-opacity=".22"/><stop offset="1" stop-color="#9860ff" stop-opacity="0"/></radialGradient>
+  <clipPath id="crown-clip"><path d="M38.5 290.7 0.5 120.1C-3.6 102 9.2 93.8 24.5 101.2L116.7 145.7 193.2 10.2C200.1-2.1 216.4-2.1 223.3 10.2L299.6 145.7 393.3 100.6C409.5 92.8 421.1 102.6 417 120.8L378.5 290.7C376.7 299.2 370.8 305 361.3 305H55.7C46.3 305 40.5 299.7 38.5 290.7Z"/></clipPath>
+  <filter id="soft" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="5"/></filter>
+</defs><g font-family="Segoe UI,Arial,sans-serif"><rect x=".75" y=".75" width="478.5" height="242.5" rx="24" fill="url(#surface)" stroke="url(#edge)" stroke-width="1.5"/><circle cx="424" cy="48" r="145" fill="url(#halo)" opacity=".75"/>
+    <path d="M21 50V22h28m382 0h28v28" fill="none" stroke="#93c9ff" stroke-opacity=".2"/>
+    <text x="29" y="40" font-size="9" fill="#7399bd" letter-spacing="1.6">02 / LAUNCH</text>
+    <g transform="translate(383 27)" stroke="#93c9ff" fill="none" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m12 9 27 15-27 15V9Z"/><path d="M6 15v18m38-17v16"/></g>
+    <text x="29" y="106" font-size="24" fill="#e5f1ff" font-weight="600" letter-spacing="-.5">Your play. Your choice.</text>
+    <text x="30" y="140" font-size="14" fill="#a1b5cb" >Normal, Local, or RPC Call where supported.</text><text x="30" y="163" font-size="14" fill="#a1b5cb" >Choose the method before every launch.</text>
+    <path d="M30 196h420" stroke="#40617e" stroke-opacity=".24"/><circle cx="33" cy="220" r="2" fill="#93c9ff"/>
+    <text x="44" y="223" font-size="7.5" fill="#739bbf" letter-spacing="1.4">THREE EXPLICIT PATHS</text>
+    <path d="m429 215 7 5-7 5m-8-5h15" stroke="#93c9ff" stroke-opacity=".6" fill="none"/></g></svg><svg x="0" y="528" width="480" height="244" viewBox="0 0 480 244"><title id="title">Keep the moment close. Floating cards. Live timers. Real controls. Hide, restore, or end each owned session.</title><defs>
+  <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101f33"/><stop offset=".6" stop-color="#08121e"/><stop offset="1" stop-color="#060c15"/></linearGradient>
+  <linearGradient id="metal" x1="40" y1="0" x2="370" y2="305" gradientUnits="userSpaceOnUse"><stop stop-color="#d0f5ff"/><stop offset=".2" stop-color="#8cd8ff"/><stop offset=".46" stop-color="#318ef3"/><stop offset="1" stop-color="#063e85"/></linearGradient>
+  <linearGradient id="purple" x1="40" y1="0" x2="370" y2="305" gradientUnits="userSpaceOnUse"><stop stop-color="#eee4ff"/><stop offset=".3" stop-color="#c99bff"/><stop offset=".7" stop-color="#9260f2"/><stop offset="1" stop-color="#4823a0"/></linearGradient>
+  <linearGradient id="edge"><stop stop-color="#89caff" stop-opacity=".7"/><stop offset=".5" stop-color="#45628c" stop-opacity=".12"/><stop offset="1" stop-color="#87bcf8" stop-opacity=".4"/></linearGradient>
+  <linearGradient id="shine"><stop stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#e6f8ff" stop-opacity=".38"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+  <radialGradient id="halo"><stop stop-color="#248bff" stop-opacity=".3"/><stop offset=".6" stop-color="#248bff" stop-opacity=".08"/><stop offset="1" stop-color="#248bff" stop-opacity="0"/></radialGradient>
+  <radialGradient id="violet-halo"><stop stop-color="#9860ff" stop-opacity=".22"/><stop offset="1" stop-color="#9860ff" stop-opacity="0"/></radialGradient>
+  <clipPath id="crown-clip"><path d="M38.5 290.7 0.5 120.1C-3.6 102 9.2 93.8 24.5 101.2L116.7 145.7 193.2 10.2C200.1-2.1 216.4-2.1 223.3 10.2L299.6 145.7 393.3 100.6C409.5 92.8 421.1 102.6 417 120.8L378.5 290.7C376.7 299.2 370.8 305 361.3 305H55.7C46.3 305 40.5 299.7 38.5 290.7Z"/></clipPath>
+  <filter id="soft" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="5"/></filter>
+</defs><g font-family="Segoe UI,Arial,sans-serif"><rect x=".75" y=".75" width="478.5" height="242.5" rx="24" fill="url(#surface)" stroke="url(#edge)" stroke-width="1.5"/><circle cx="424" cy="48" r="145" fill="url(#halo)" opacity=".75"/>
+    <path d="M21 50V22h28m382 0h28v28" fill="none" stroke="#93c9ff" stroke-opacity=".2"/>
+    <text x="29" y="40" font-size="9" fill="#7399bd" letter-spacing="1.6">03 / SESSIONS</text>
+    <g transform="translate(383 27)" stroke="#93c9ff" fill="none" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><rect x="5" y="7" width="38" height="31" rx="6"/><path d="M5 15h38m-27 6h14m-14 6h9m-9 6h18"/><circle cx="10" cy="11" r=".5"/></g>
+    <text x="29" y="106" font-size="24" fill="#e5f1ff" font-weight="600" letter-spacing="-.5">Keep the moment close.</text>
+    <text x="30" y="140" font-size="14" fill="#a1b5cb" >Floating cards. Live timers. Real controls.</text><text x="30" y="163" font-size="14" fill="#a1b5cb" >Hide, restore, or end each owned session.</text>
+    <path d="M30 196h420" stroke="#40617e" stroke-opacity=".24"/><circle cx="33" cy="220" r="2" fill="#93c9ff"/>
+    <text x="44" y="223" font-size="7.5" fill="#739bbf" letter-spacing="1.4">YOUR SESSIONS, AT A GLANCE</text>
+    <path d="m429 215 7 5-7 5m-8-5h15" stroke="#93c9ff" stroke-opacity=".6" fill="none"/></g></svg><svg x="0" y="792" width="480" height="244" viewBox="0 0 480 244"><title id="title">A place for your play. Keep your selected games together. Change card sizes. Return to your library.</title><defs>
+  <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101f33"/><stop offset=".6" stop-color="#08121e"/><stop offset="1" stop-color="#060c15"/></linearGradient>
+  <linearGradient id="metal" x1="40" y1="0" x2="370" y2="305" gradientUnits="userSpaceOnUse"><stop stop-color="#d0f5ff"/><stop offset=".2" stop-color="#8cd8ff"/><stop offset=".46" stop-color="#318ef3"/><stop offset="1" stop-color="#063e85"/></linearGradient>
+  <linearGradient id="purple" x1="40" y1="0" x2="370" y2="305" gradientUnits="userSpaceOnUse"><stop stop-color="#eee4ff"/><stop offset=".3" stop-color="#c99bff"/><stop offset=".7" stop-color="#9260f2"/><stop offset="1" stop-color="#4823a0"/></linearGradient>
+  <linearGradient id="edge"><stop stop-color="#89caff" stop-opacity=".7"/><stop offset=".5" stop-color="#45628c" stop-opacity=".12"/><stop offset="1" stop-color="#87bcf8" stop-opacity=".4"/></linearGradient>
+  <linearGradient id="shine"><stop stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#e6f8ff" stop-opacity=".38"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+  <radialGradient id="halo"><stop stop-color="#248bff" stop-opacity=".3"/><stop offset=".6" stop-color="#248bff" stop-opacity=".08"/><stop offset="1" stop-color="#248bff" stop-opacity="0"/></radialGradient>
+  <radialGradient id="violet-halo"><stop stop-color="#9860ff" stop-opacity=".22"/><stop offset="1" stop-color="#9860ff" stop-opacity="0"/></radialGradient>
+  <clipPath id="crown-clip"><path d="M38.5 290.7 0.5 120.1C-3.6 102 9.2 93.8 24.5 101.2L116.7 145.7 193.2 10.2C200.1-2.1 216.4-2.1 223.3 10.2L299.6 145.7 393.3 100.6C409.5 92.8 421.1 102.6 417 120.8L378.5 290.7C376.7 299.2 370.8 305 361.3 305H55.7C46.3 305 40.5 299.7 38.5 290.7Z"/></clipPath>
+  <filter id="soft" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="5"/></filter>
+</defs><g font-family="Segoe UI,Arial,sans-serif"><rect x=".75" y=".75" width="478.5" height="242.5" rx="24" fill="url(#surface)" stroke="url(#edge)" stroke-width="1.5"/><circle cx="424" cy="48" r="145" fill="url(#halo)" opacity=".75"/>
+    <path d="M21 50V22h28m382 0h28v28" fill="none" stroke="#93c9ff" stroke-opacity=".2"/>
+    <text x="29" y="40" font-size="9" fill="#7399bd" letter-spacing="1.6">04 / LIBRARY</text>
+    <g transform="translate(383 27)" stroke="#93c9ff" fill="none" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><rect x="5" y="5" width="15" height="16" rx="3"/><rect x="27" y="5" width="15" height="16" rx="3"/><rect x="5" y="28" width="15" height="16" rx="3"/><rect x="27" y="28" width="15" height="16" rx="3"/></g>
+    <text x="29" y="106" font-size="24" fill="#e5f1ff" font-weight="600" letter-spacing="-.5">A place for your play.</text>
+    <text x="30" y="140" font-size="14" fill="#a1b5cb" >Keep your selected games together.</text><text x="30" y="163" font-size="14" fill="#a1b5cb" >Change card sizes. Return to your library.</text>
+    <path d="M30 196h420" stroke="#40617e" stroke-opacity=".24"/><circle cx="33" cy="220" r="2" fill="#93c9ff"/>
+    <text x="44" y="223" font-size="7.5" fill="#739bbf" letter-spacing="1.4">PERSONAL BY DESIGN</text>
+    <path d="m429 215 7 5-7 5m-8-5h15" stroke="#93c9ff" stroke-opacity=".6" fill="none"/></g></svg><svg x="0" y="1056" width="480" height="244" viewBox="0 0 480 244"><title id="title">Two worlds. One you. Lord Veyra blue. Veyra Galaxy violet. Full or Reduced Motion, on your terms.</title><defs>
+  <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101f33"/><stop offset=".6" stop-color="#08121e"/><stop offset="1" stop-color="#060c15"/></linearGradient>
+  <linearGradient id="metal" x1="40" y1="0" x2="370" y2="305" gradientUnits="userSpaceOnUse"><stop stop-color="#d0f5ff"/><stop offset=".2" stop-color="#8cd8ff"/><stop offset=".46" stop-color="#318ef3"/><stop offset="1" stop-color="#063e85"/></linearGradient>
+  <linearGradient id="purple" x1="40" y1="0" x2="370" y2="305" gradientUnits="userSpaceOnUse"><stop stop-color="#eee4ff"/><stop offset=".3" stop-color="#c99bff"/><stop offset=".7" stop-color="#9260f2"/><stop offset="1" stop-color="#4823a0"/></linearGradient>
+  <linearGradient id="edge"><stop stop-color="#89caff" stop-opacity=".7"/><stop offset=".5" stop-color="#45628c" stop-opacity=".12"/><stop offset="1" stop-color="#87bcf8" stop-opacity=".4"/></linearGradient>
+  <linearGradient id="shine"><stop stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#e6f8ff" stop-opacity=".38"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+  <radialGradient id="halo"><stop stop-color="#248bff" stop-opacity=".3"/><stop offset=".6" stop-color="#248bff" stop-opacity=".08"/><stop offset="1" stop-color="#248bff" stop-opacity="0"/></radialGradient>
+  <radialGradient id="violet-halo"><stop stop-color="#9860ff" stop-opacity=".22"/><stop offset="1" stop-color="#9860ff" stop-opacity="0"/></radialGradient>
+  <clipPath id="crown-clip"><path d="M38.5 290.7 0.5 120.1C-3.6 102 9.2 93.8 24.5 101.2L116.7 145.7 193.2 10.2C200.1-2.1 216.4-2.1 223.3 10.2L299.6 145.7 393.3 100.6C409.5 92.8 421.1 102.6 417 120.8L378.5 290.7C376.7 299.2 370.8 305 361.3 305H55.7C46.3 305 40.5 299.7 38.5 290.7Z"/></clipPath>
+  <filter id="soft" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="5"/></filter>
+</defs><g font-family="Segoe UI,Arial,sans-serif"><rect x=".75" y=".75" width="478.5" height="242.5" rx="24" fill="url(#surface)" stroke="url(#edge)" stroke-width="1.5"/><circle cx="424" cy="48" r="145" fill="url(#violet-halo)" opacity=".75"/>
+    <path d="M21 50V22h28m382 0h28v28" fill="none" stroke="#c39aff" stroke-opacity=".2"/>
+    <text x="29" y="40" font-size="9" fill="#7399bd" letter-spacing="1.6">05 / IDENTITY</text>
+    <g transform="translate(383 27)" stroke="#c39aff" fill="none" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m7 31-4-16 12 6 9-16 9 16 12-6-4 16H7Z"/><path d="M10 38h28m-14-2v6"/></g>
+    <text x="29" y="106" font-size="24" fill="#e5f1ff" font-weight="600" letter-spacing="-.5">Two worlds. One you.</text>
+    <text x="30" y="140" font-size="14" fill="#a1b5cb" >Lord Veyra blue. Veyra Galaxy violet.</text><text x="30" y="163" font-size="14" fill="#a1b5cb" >Full or Reduced Motion, on your terms.</text>
+    <path d="M30 196h420" stroke="#40617e" stroke-opacity=".24"/><circle cx="33" cy="220" r="2" fill="#c39aff"/>
+    <text x="44" y="223" font-size="7.5" fill="#739bbf" letter-spacing="1.4">BUILT AROUND YOUR IDENTITY</text>
+    <path d="m429 215 7 5-7 5m-8-5h15" stroke="#c39aff" stroke-opacity=".6" fill="none"/></g></svg><svg x="0" y="1320" width="480" height="244" viewBox="0 0 480 244"><title id="title">Your story, in motion. Your portrait, frame, and session history. See your recorded time and most-used games.</title><defs>
+  <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101f33"/><stop offset=".6" stop-color="#08121e"/><stop offset="1" stop-color="#060c15"/></linearGradient>
+  <linearGradient id="metal" x1="40" y1="0" x2="370" y2="305" gradientUnits="userSpaceOnUse"><stop stop-color="#d0f5ff"/><stop offset=".2" stop-color="#8cd8ff"/><stop offset=".46" stop-color="#318ef3"/><stop offset="1" stop-color="#063e85"/></linearGradient>
+  <linearGradient id="purple" x1="40" y1="0" x2="370" y2="305" gradientUnits="userSpaceOnUse"><stop stop-color="#eee4ff"/><stop offset=".3" stop-color="#c99bff"/><stop offset=".7" stop-color="#9260f2"/><stop offset="1" stop-color="#4823a0"/></linearGradient>
+  <linearGradient id="edge"><stop stop-color="#89caff" stop-opacity=".7"/><stop offset=".5" stop-color="#45628c" stop-opacity=".12"/><stop offset="1" stop-color="#87bcf8" stop-opacity=".4"/></linearGradient>
+  <linearGradient id="shine"><stop stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#e6f8ff" stop-opacity=".38"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+  <radialGradient id="halo"><stop stop-color="#248bff" stop-opacity=".3"/><stop offset=".6" stop-color="#248bff" stop-opacity=".08"/><stop offset="1" stop-color="#248bff" stop-opacity="0"/></radialGradient>
+  <radialGradient id="violet-halo"><stop stop-color="#9860ff" stop-opacity=".22"/><stop offset="1" stop-color="#9860ff" stop-opacity="0"/></radialGradient>
+  <clipPath id="crown-clip"><path d="M38.5 290.7 0.5 120.1C-3.6 102 9.2 93.8 24.5 101.2L116.7 145.7 193.2 10.2C200.1-2.1 216.4-2.1 223.3 10.2L299.6 145.7 393.3 100.6C409.5 92.8 421.1 102.6 417 120.8L378.5 290.7C376.7 299.2 370.8 305 361.3 305H55.7C46.3 305 40.5 299.7 38.5 290.7Z"/></clipPath>
+  <filter id="soft" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="5"/></filter>
+</defs><g font-family="Segoe UI,Arial,sans-serif"><rect x=".75" y=".75" width="478.5" height="242.5" rx="24" fill="url(#surface)" stroke="url(#edge)" stroke-width="1.5"/><circle cx="424" cy="48" r="145" fill="url(#halo)" opacity=".75"/>
+    <path d="M21 50V22h28m382 0h28v28" fill="none" stroke="#93c9ff" stroke-opacity=".2"/>
+    <text x="29" y="40" font-size="9" fill="#7399bd" letter-spacing="1.6">06 / PROFILE</text>
+    <g transform="translate(383 27)" stroke="#93c9ff" fill="none" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><circle cx="24" cy="15" r="8"/><path d="M8 42v-5a16 16 0 0 1 32 0v5M5 7l5-3m28 0 5 3"/></g>
+    <text x="29" y="106" font-size="24" fill="#e5f1ff" font-weight="600" letter-spacing="-.5">Your story, in motion.</text>
+    <text x="30" y="140" font-size="14" fill="#a1b5cb" >Your portrait, frame, and session history.</text><text x="30" y="163" font-size="14" fill="#a1b5cb" >See your recorded time and most-used games.</text>
+    <path d="M30 196h420" stroke="#40617e" stroke-opacity=".24"/><circle cx="33" cy="220" r="2" fill="#93c9ff"/>
+    <text x="44" y="223" font-size="7.5" fill="#739bbf" letter-spacing="1.4">EVERY SESSION LEAVES A TRACE</text>
+    <path d="m429 215 7 5-7 5m-8-5h15" stroke="#93c9ff" stroke-opacity=".6" fill="none"/></g></svg><svg x="0" y="1584" width="480" height="244" viewBox="0 0 480 244"><title id="title">A space of your own. Owner-issued accounts, linked to a device. Optional protected remembered sign-in.</title><defs>
+  <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101f33"/><stop offset=".6" stop-color="#08121e"/><stop offset="1" stop-color="#060c15"/></linearGradient>
+  <linearGradient id="metal" x1="40" y1="0" x2="370" y2="305" gradientUnits="userSpaceOnUse"><stop stop-color="#d0f5ff"/><stop offset=".2" stop-color="#8cd8ff"/><stop offset=".46" stop-color="#318ef3"/><stop offset="1" stop-color="#063e85"/></linearGradient>
+  <linearGradient id="purple" x1="40" y1="0" x2="370" y2="305" gradientUnits="userSpaceOnUse"><stop stop-color="#eee4ff"/><stop offset=".3" stop-color="#c99bff"/><stop offset=".7" stop-color="#9260f2"/><stop offset="1" stop-color="#4823a0"/></linearGradient>
+  <linearGradient id="edge"><stop stop-color="#89caff" stop-opacity=".7"/><stop offset=".5" stop-color="#45628c" stop-opacity=".12"/><stop offset="1" stop-color="#87bcf8" stop-opacity=".4"/></linearGradient>
+  <linearGradient id="shine"><stop stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#e6f8ff" stop-opacity=".38"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+  <radialGradient id="halo"><stop stop-color="#248bff" stop-opacity=".3"/><stop offset=".6" stop-color="#248bff" stop-opacity=".08"/><stop offset="1" stop-color="#248bff" stop-opacity="0"/></radialGradient>
+  <radialGradient id="violet-halo"><stop stop-color="#9860ff" stop-opacity=".22"/><stop offset="1" stop-color="#9860ff" stop-opacity="0"/></radialGradient>
+  <clipPath id="crown-clip"><path d="M38.5 290.7 0.5 120.1C-3.6 102 9.2 93.8 24.5 101.2L116.7 145.7 193.2 10.2C200.1-2.1 216.4-2.1 223.3 10.2L299.6 145.7 393.3 100.6C409.5 92.8 421.1 102.6 417 120.8L378.5 290.7C376.7 299.2 370.8 305 361.3 305H55.7C46.3 305 40.5 299.7 38.5 290.7Z"/></clipPath>
+  <filter id="soft" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="5"/></filter>
+</defs><g font-family="Segoe UI,Arial,sans-serif"><rect x=".75" y=".75" width="478.5" height="242.5" rx="24" fill="url(#surface)" stroke="url(#edge)" stroke-width="1.5"/><circle cx="424" cy="48" r="145" fill="url(#halo)" opacity=".75"/>
+    <path d="M21 50V22h28m382 0h28v28" fill="none" stroke="#93c9ff" stroke-opacity=".2"/>
+    <text x="29" y="40" font-size="9" fill="#7399bd" letter-spacing="1.6">07 / ACCESS</text>
+    <g transform="translate(383 27)" stroke="#93c9ff" fill="none" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m24 3 17 7v12c0 13-17 22-17 22S7 35 7 22V10l17-7Z"/><path d="m16 23 6 6 12-13"/></g>
+    <text x="29" y="106" font-size="24" fill="#e5f1ff" font-weight="600" letter-spacing="-.5">A space of your own.</text>
+    <text x="30" y="140" font-size="14" fill="#a1b5cb" >Owner-issued accounts, linked to a device.</text><text x="30" y="163" font-size="14" fill="#a1b5cb" >Optional protected remembered sign-in.</text>
+    <path d="M30 196h420" stroke="#40617e" stroke-opacity=".24"/><circle cx="33" cy="220" r="2" fill="#93c9ff"/>
+    <text x="44" y="223" font-size="7.5" fill="#739bbf" letter-spacing="1.4">ACTIVE ACCOUNT + INTERNET</text>
+    <path d="m429 215 7 5-7 5m-8-5h15" stroke="#93c9ff" stroke-opacity=".6" fill="none"/></g></svg><svg x="0" y="1848" width="480" height="244" viewBox="0 0 480 244"><title id="title">Always a new chapter. Signed updates, delivered inside the app. Choose when to restart after your sessions.</title><defs>
+  <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101f33"/><stop offset=".6" stop-color="#08121e"/><stop offset="1" stop-color="#060c15"/></linearGradient>
+  <linearGradient id="metal" x1="40" y1="0" x2="370" y2="305" gradientUnits="userSpaceOnUse"><stop stop-color="#d0f5ff"/><stop offset=".2" stop-color="#8cd8ff"/><stop offset=".46" stop-color="#318ef3"/><stop offset="1" stop-color="#063e85"/></linearGradient>
+  <linearGradient id="purple" x1="40" y1="0" x2="370" y2="305" gradientUnits="userSpaceOnUse"><stop stop-color="#eee4ff"/><stop offset=".3" stop-color="#c99bff"/><stop offset=".7" stop-color="#9260f2"/><stop offset="1" stop-color="#4823a0"/></linearGradient>
+  <linearGradient id="edge"><stop stop-color="#89caff" stop-opacity=".7"/><stop offset=".5" stop-color="#45628c" stop-opacity=".12"/><stop offset="1" stop-color="#87bcf8" stop-opacity=".4"/></linearGradient>
+  <linearGradient id="shine"><stop stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#e6f8ff" stop-opacity=".38"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+  <radialGradient id="halo"><stop stop-color="#248bff" stop-opacity=".3"/><stop offset=".6" stop-color="#248bff" stop-opacity=".08"/><stop offset="1" stop-color="#248bff" stop-opacity="0"/></radialGradient>
+  <radialGradient id="violet-halo"><stop stop-color="#9860ff" stop-opacity=".22"/><stop offset="1" stop-color="#9860ff" stop-opacity="0"/></radialGradient>
+  <clipPath id="crown-clip"><path d="M38.5 290.7 0.5 120.1C-3.6 102 9.2 93.8 24.5 101.2L116.7 145.7 193.2 10.2C200.1-2.1 216.4-2.1 223.3 10.2L299.6 145.7 393.3 100.6C409.5 92.8 421.1 102.6 417 120.8L378.5 290.7C376.7 299.2 370.8 305 361.3 305H55.7C46.3 305 40.5 299.7 38.5 290.7Z"/></clipPath>
+  <filter id="soft" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="5"/></filter>
+</defs><g font-family="Segoe UI,Arial,sans-serif"><rect x=".75" y=".75" width="478.5" height="242.5" rx="24" fill="url(#surface)" stroke="url(#edge)" stroke-width="1.5"/><circle cx="424" cy="48" r="145" fill="url(#halo)" opacity=".75"/>
+    <path d="M21 50V22h28m382 0h28v28" fill="none" stroke="#93c9ff" stroke-opacity=".2"/>
+    <text x="29" y="40" font-size="9" fill="#7399bd" letter-spacing="1.6">08 / UPDATES</text>
+    <g transform="translate(383 27)" stroke="#93c9ff" fill="none" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M9 17A16 16 0 0 1 37 9l5 6M42 5v10H32M39 31A16 16 0 0 1 11 39l-5-6M6 43V33h10"/><path d="M24 15v18m-7-7 7 7 7-7"/></g>
+    <text x="29" y="106" font-size="24" fill="#e5f1ff" font-weight="600" letter-spacing="-.5">Always a new chapter.</text>
+    <text x="30" y="140" font-size="14" fill="#a1b5cb" >Signed updates, delivered inside the app.</text><text x="30" y="163" font-size="14" fill="#a1b5cb" >Choose when to restart after your sessions.</text>
+    <path d="M30 196h420" stroke="#40617e" stroke-opacity=".24"/><circle cx="33" cy="220" r="2" fill="#93c9ff"/>
+    <text x="44" y="223" font-size="7.5" fill="#739bbf" letter-spacing="1.4">KEEP YOUR WORLD WITH YOU</text>
+    <path d="m429 215 7 5-7 5m-8-5h15" stroke="#93c9ff" stroke-opacity=".6" fill="none"/></g></svg></g></svg>

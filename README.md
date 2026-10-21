@@ -1,79 +1,160 @@
 <div align="center">
-  <img src="assets/lord-veyra.png" alt="Lord Veyra blue crown" width="144" height="144">
-  <h1>Lord Veyra</h1>
-  <p><strong>Your space. Your sessions. Your identity.</strong></p>
-  <p>A Windows activity launcher with a personal library, session cards, and the Lord Veyra and Veyra Galaxy visual identities.</p>
-  <p><a href="https://github.com/LOoOrds/Lord-Veyra/releases"><strong>View releases</strong></a> · <a href="#getting-started">Getting started</a> · <a href="#automatic-updates">Updates</a> · <a href="README.ar.md">العربية</a></p>
-  <p>Windows 10 / 11 · x64 · Internet connection and an active account required</p>
+  <a href="https://github.com/LOoOrds/Lord-Veyra/releases/latest">
+    <picture>
+      <source media="(prefers-reduced-motion: reduce)" srcset="assets/hero.svg">
+      <img src="assets/hero.gif" alt="Lord Veyra. Your world, in orbit. Discover. Launch. Make every session yours." width="1000">
+    </picture>
+  </a>
+  <br><br>
+  <a href="https://github.com/LOoOrds/Lord-Veyra/releases/latest"><img src="https://img.shields.io/github/v/release/LOoOrds/Lord-Veyra?style=for-the-badge&amp;label=LATEST&amp;labelColor=0B1625&amp;color=86BEFF" alt="Latest published version"></a>
+  <a href="https://github.com/LOoOrds/Lord-Veyra/releases"><img src="https://img.shields.io/github/downloads/LOoOrds/Lord-Veyra/total?style=for-the-badge&amp;label=DOWNLOADS&amp;labelColor=0B1625&amp;color=86BEFF" alt="Total GitHub release-asset downloads"></a>
+  <img src="https://img.shields.io/badge/WINDOWS-10%20%2F%2011%20%C2%B7%20x64-86BEFF?style=for-the-badge&amp;labelColor=0B1625" alt="Windows 10 and Windows 11, x64">
+  <br><br>
+  <strong>A personal Windows activity launcher, shaped around your sessions.</strong><br>
+  <sub>Maintained by Lords · Active account and internet required · Limited friend testing</sub>
+  <br><br>
+  <a href="#the-experience">The experience</a> &nbsp; / &nbsp;
+  <a href="#choose-your-path">Launch choices</a> &nbsp; / &nbsp;
+  <a href="#step-inside">Get started</a> &nbsp; / &nbsp;
+  <a href="#a-new-chapter-delivered">Updates</a> &nbsp; / &nbsp;
+  <a href="README.ar.md">العربية</a>
+  <br><br>
+  <a href="https://github.com/LOoOrds/Lord-Veyra/releases/latest"><picture><source media="(max-width: 680px)" srcset="assets/download-mobile.svg"><img src="assets/download.svg" alt="Download the latest Lord Veyra Setup for Windows" width="1000"></picture></a>
+  <sub>Current release: <a href="https://github.com/LOoOrds/Lord-Veyra/releases/tag/v0.9.6">0.9.6</a> · Existing eligible installations can update inside the app.</sub>
 </div>
 
----
+<br>
 
-## Official distribution
+## The experience
 
-This is the official public download and user-guide repository for **Lord Veyra**, maintained by **Lords**. It contains documentation, brand images, and published installer releases. Application source code and administration tools are not hosted here.
+**From your first search to your last session.** A personal library, floating session cards, a profile that tells your story, and a visual identity that follows you through the experience.
 
-**Version 0.9.6 is available for limited friend testing.** [Download Lord Veyra Setup](https://github.com/LOoOrds/Lord-Veyra/releases/download/v0.9.6/Lord-Veyra-0.9.6-Setup.exe), or read the [release notes](https://github.com/LOoOrds/Lord-Veyra/releases/tag/v0.9.6). Existing eligible installations can receive 0.9.6 through the separately activated in-app update channel.
+<picture>
+  <source media="(max-width: 680px)" srcset="assets/features-mobile.svg">
+  <img src="assets/features.svg" alt="Eight features: catalog search; Normal, Local and RPC launch choices; floating session cards; a saved personal library; two themes; Profile and history; device-linked access; and signed updates." width="1000">
+</picture>
 
-## Made for your sessions
+<details>
+<summary><strong>Explore what is included</strong></summary>
 
-| | What you can do |
-|---|---|
-| **Discover** | Search the game catalog, review available launch choices, and add games to your library. |
-| **Launch** | Choose explicitly between **Normal**, **Local**, and **RPC Call**, where supported. The available choices depend on the selected game. |
-| **Keep track** | Use floating session cards, see your active sessions, and review your account's recorded activity in Profile. |
-| **Make it yours** | Switch between **Lord Veyra** and **Veyra Galaxy**, choose a gallery size, and use Full or Reduced Motion. |
-| **Personalize** | Update your display name and cropped profile image, with a frame that follows your theme. |
+- **Discover:** search the game catalog, with Discord metadata, the private mirror, and validated Local profiles contributing the available choices.
+- **Launch:** choose Normal, Local, or RPC Call explicitly where supported. Availability depends on the selected game and the method's requirements.
+- **Sessions:** keep a floating card nearby, watch its timer, hide or restore it, and end the session directly.
+- **Library:** save selected games between launches and choose the card size that fits your space.
+- **Identity:** switch between Lord Veyra and Veyra Galaxy, with Full or Reduced Motion.
+- **Profile:** choose your portrait, use a theme-aware frame, and review recorded activity and most-used games.
+- **Access:** use an account issued by Lords, linked on its first eligible sign-in to its Windows device. Remembered sign-in is optional and protected locally by Windows.
+- **Updates:** receive owner-signed updates inside the app, with verification, restart choices, and installation after active sessions finish.
 
-## Getting started
+</details>
 
-1. Obtain your account credentials from Lords. There is no public account-registration form.
-2. Download the latest **Setup.exe** from this repository's Releases page.
-3. Run Setup, choose the recommended location or an empty custom folder, and finish installation. Setup can provision Microsoft WebView2 Runtime when it is missing; this step requires internet access.
-4. Select **Launch Veyra**, then sign in with your username or email and password. **Remember me** is optional.
-5. Open **Add**, search for a supported game, and add it to **Library**. Select **Play** and choose the available launch method you intend to use.
+<br>
 
-The normal installation does not require a development environment or a separate application-data download.
+## Two identities. One experience.
 
-## Accounts and devices
+<picture><source media="(max-width: 680px)" srcset="assets/identities-mobile.svg"><img src="assets/identities.svg" alt="Lord Veyra: blue crown and quiet power. Veyra Galaxy: violet identity and your own space." width="1000"></picture>
 
-- An active subscription and ongoing internet access are required.
-- The first eligible sign-in links an account to its Windows device. Logging out or uninstalling does not clear that link. Contact Lords if a device reset is needed.
-- Account creation, subscription changes, and device resets are managed by Lords. End users do not need the private administration website.
-- Remembered sign-in is protected locally by Windows and is still checked online.
+The same library, account, and controls, expressed through two distinct themes. Your choice carries through the interface, profile frame, and session cards. Choose **Full Motion** for the complete presentation or **Reduced Motion** for a quieter experience.
 
-## Sessions and Profile
+<br>
 
-The simultaneous-session limit defaults to **3** and can be set from **1 to 10** in Settings. At most one RPC Call session can run at a time. Lowering the limit keeps existing sessions alive and blocks additional launches until capacity is available.
+## Choose your path
 
-Closing the main window hides Lord Veyra to the system tray. **End Session** stops the selected session; **Quit Veyra** stops Veyra's active sessions and exits. A completed on-screen 15-minute timer does not automatically end a session.
+| Method | Your choice |
+|:---|:---|
+| **Normal** | The standard supported activity-launch route shown for the selected game. |
+| **Local** | The available validated Local profile, with its required local prerequisites. |
+| **RPC Call** | An explicit Rich Presence alternative, reached through **More Options** and its confirmation. |
 
-Profile shows your account, subscription, active device, and recorded game-session history. Session time is a record of tool activity; it is not a guarantee of in-game play time or external quest completion.
+Launch choices are separate. RPC is never selected silently. A session records activity in Lord Veyra; it does not guarantee actual in-game play or completion of an external quest.
 
-## Automatic updates
+<br>
 
-Eligible installed copies check for deliberately published application updates at authorized startup and during their existing periodic account checks. Uploading a Setup to GitHub is separate from activating an in-app update.
+## Step inside
 
-If a newer signed update is available at startup, Lord Veyra shows its download, verification, and installation flow. During use, an update can download in the background; the update offer allows **Update now** or **Later**. Installation waits for active and pending sessions to finish. The exact behavior is described in each published release's notes.
+**01 · Get your account**  
+Obtain your username or email and password from Lords. Accounts are created by the owner; there is no public sign-up form.
 
-Existing Setup downloads do not rewrite themselves. Use the latest published Setup for a new installation.
+**02 · Make it your space**  
+[Download the latest Setup](https://github.com/LOoOrds/Lord-Veyra/releases/latest), choose the recommended location or an empty custom folder, and install. Setup can provision Microsoft WebView2 Runtime when it is missing.
 
-## Requirements and installation notes
+**03 · Enter Veyra**  
+Select **Launch Veyra**, sign in, and optionally enable **Remember me**. An active subscription and ongoing internet access are required.
 
-- Windows 10 or Windows 11, **64-bit**.
-- A working internet connection and credentials issued by Lords.
-- Microsoft WebView2 Runtime for the application; Setup handles provisioning when required.
-- A writable installation folder. The recommended installation is per Windows user; custom installation requires an empty local folder.
+**04 · Start your first session**  
+Open **Add**, search for a supported game, add it to **Library**, then select **Play** and choose an available launch method.
 
-The current development builds use a **self-signed development certificate**. They are not signed by a publicly trusted publisher, so Windows may show publisher or reputation warnings. A self-signature does not establish public Windows trust.
+You need no developer tools or separate application-data download for a normal installation.
 
-## Help and feedback
+<br>
 
-For account access, subscription changes, or device resets, contact Lords through your existing private support channel. For reproducible application problems, [open an issue](https://github.com/LOoOrds/Lord-Veyra/issues) with the version, Windows version, steps, and a screenshot when useful. Remove account details from screenshots. **Never post passwords, access tokens, or administration keys.**
+## A new chapter, delivered
 
----
+Updates belong inside the experience. Eligible installations check at authorized startup and through the existing account heartbeat, approximately every **five minutes**.
+
+| When an update arrives | What you see |
+|:---|:---|
+| **As you open the app** | The branded download, verification, and installation flow. |
+| **While you are inside** | A background download, followed by the update offer. Choose **Update now** or **Later**; the reminder remains accessible in the sidebar. |
+
+Installation waits for active and pending sessions to finish. The genuine **0.9.5 to 0.9.6** upgrade passed local replacement/uninstall checks, and the owner confirmed a successful device update without losing settings. Remaining intermittent interface freezes are tracked separately.
+
+Use the latest Setup for a **new installation**. Existing eligible users can follow the in-app update flow. [Read the current release notes](https://github.com/LOoOrds/Lord-Veyra/releases/tag/v0.9.6).
+
+<br>
+
+## The essentials
+
+| Requirement | Details |
+|:---|:---|
+| **Windows** | Windows 10 or Windows 11, **64-bit**. |
+| **Connection** | Working internet throughout authorized use. |
+| **Account** | Credentials issued by Lords and an active subscription. |
+| **WebView2** | Microsoft WebView2 Runtime; Setup provisions it when needed. |
+| **Installation** | A writable directory. The recommended location is per Windows user; a custom directory must be empty. |
+
+<details>
+<summary><strong>Accounts, devices, and session controls</strong></summary>
+
+The first eligible sign-in links an account to its Windows device. Logout or uninstall does not remove that server-side link; contact Lords if a reset is needed. Remembered access is still checked online.
+
+The default simultaneous-session limit is **3**, adjustable from **1 to 10** in Settings. At most one RPC Call session can run at once. Lowering the limit preserves existing sessions and blocks new ones until capacity becomes available.
+
+Closing the main window hides Lord Veyra to the tray. **End Session** stops the selected session. **Quit Veyra** stops the application's owned active sessions and exits. Reaching the end of a card's 15-minute timer does not automatically end its session.
+
+</details>
+
+<details>
+<summary><strong>Windows publisher notice</strong></summary>
+
+The current release uses a **self-signed development certificate**. It is not signed by a publicly trusted publisher, so Windows may display publisher or reputation warnings. The separate signed-update checks verify owner-issued update artifacts; they do not establish public Windows publisher trust.
+
+</details>
+
+<details>
+<summary><strong>Downloads and release statistics</strong></summary>
+
+The version badge follows the latest public GitHub release. The download badge shows cached GitHub release-asset downloads, including repeat downloads; it is not a count of users or installations. Downloads through the private in-app updater are separate.
+
+</details>
+
+<br>
+
+## Keep shaping the experience
+
+For account access, subscriptions, and device resets, contact Lords through your usual private support channel. For a reproducible application issue, [share feedback](https://github.com/LOoOrds/Lord-Veyra/issues) with the app version, Windows version, reproduction steps, and a screenshot when helpful. Remove account details; never post passwords, tokens, or administration keys.
+
+This is the official public distribution and user-guide repository. Application source and private administration tools are maintained separately.
+
+<br>
 
 <div align="center">
-  <strong>Lord Veyra · Lords</strong><br>
-  <sub>© 2026 Lords. Product identity and original documentation.</sub>
+  <img src="assets/lord-veyra.png" alt="Lord Veyra crown" width="64"><br>
+  <strong>L O R D &nbsp; V E Y R A</strong><br>
+  <sub>Your world, in orbit. &nbsp; Crafted by Lords.</sub><br><br>
+  <a href="https://github.com/LOoOrds/Lord-Veyra/releases/latest">Download</a> &nbsp; · &nbsp;
+  <a href="https://github.com/LOoOrds/Lord-Veyra/releases">Release history</a> &nbsp; · &nbsp;
+  <a href="https://github.com/LOoOrds/Lord-Veyra/issues">Feedback</a> &nbsp; · &nbsp;
+  <a href="README.ar.md">العربية</a><br><br>
+  <sub>© 2026 Lords. Product identity and original presentation.</sub>
 </div>
