@@ -72,16 +72,16 @@ Launch choices are separate. RPC is never selected silently. A session records a
 
 ## Step inside
 
-**01 · Get your account**  
+**01 · Get your account**<br>
 Obtain your username or email and password from Lords. Accounts are created by the owner; there is no public sign-up form.
 
-**02 · Make it your space**  
+**02 · Make it your space**<br>
 [Download the latest Setup](https://github.com/LOoOrds/Lord-Veyra/releases/latest), choose the recommended location or an empty custom folder, and install. Setup can provision Microsoft WebView2 Runtime when it is missing.
 
-**03 · Enter Veyra**  
+**03 · Enter Veyra**<br>
 Select **Launch Veyra**, sign in, and optionally enable **Remember me**. An active subscription and ongoing internet access are required.
 
-**04 · Start your first session**  
+**04 · Start your first session**<br>
 Open **Add**, search for a supported game, add it to **Library**, then select **Play** and choose an available launch method.
 
 You need no developer tools or separate application-data download for a normal installation.
