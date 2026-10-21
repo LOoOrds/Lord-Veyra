@@ -13,7 +13,7 @@
 
 This is the official public download and user-guide repository for **Lord Veyra**, maintained by **Lords**. It contains documentation, brand images, and published installer releases. Application source code and administration tools are not hosted here.
 
-**The first public Setup has not been published yet.** When it is ready, its version, download, and installation notes will appear on the [Releases page](https://github.com/LOoOrds/Lord-Veyra/releases). The guide below describes the application's supported workflow; it does not announce an available installer.
+**Version 0.9.6 is available for limited friend testing.** [Download Lord Veyra Setup](https://github.com/LOoOrds/Lord-Veyra/releases/download/v0.9.6/Lord-Veyra-0.9.6-Setup.exe), or read the [release notes](https://github.com/LOoOrds/Lord-Veyra/releases/tag/v0.9.6). Existing eligible installations can receive 0.9.6 through the separately activated in-app update channel.
 
 ## Made for your sessions
 
@@ -28,7 +28,7 @@ This is the official public download and user-guide repository for **Lord Veyra*
 ## Getting started
 
 1. Obtain your account credentials from Lords. There is no public account-registration form.
-2. Download the published **Setup.exe** from this repository's Releases page when available.
+2. Download the latest **Setup.exe** from this repository's Releases page.
 3. Run Setup, choose the recommended location or an empty custom folder, and finish installation. Setup can provision Microsoft WebView2 Runtime when it is missing; this step requires internet access.
 4. Select **Launch Veyra**, then sign in with your username or email and password. **Remember me** is optional.
 5. Open **Add**, search for a supported game, and add it to **Library**. Select **Play** and choose the available launch method you intend to use.
